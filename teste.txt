@@ -1,0 +1,10 @@
+1	Arquivo de teste para conflitos
+2
+3	Arquivo da turma
+4
+5
+6	conteudo
+7	conteudo	
+8
+9
+10	fim arquivo
